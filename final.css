@@ -21,6 +21,12 @@ body {
 	}
 		
 
+#environment {
+	text-align: right;
+
+}		
+		
+		
 #title {
 		text-align: center;
 		font-size: 300%;
