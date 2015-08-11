@@ -56,10 +56,16 @@ body {
 }
 
 
-#elections{
-	position: relative;
-	left: 100px;
-	padding-left: 200px;
+#civil_rights ul{
+	list-style-type: none;
+}
+
+#civil_rights li{
+	display: inline;
+	float: left;
+	margin-left:10%;
+    margin-right:10%;
+    margin-top:5%;
 }
 
 
