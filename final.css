@@ -1,0 +1,73 @@
+
+body {
+	
+	color: #FFFFFF;
+	background-image: url("http://makeupbridalschool.com/wp-content/uploads/2015/02/Washington-D.C.-Bridal-Makeup-School.jpg");
+	background-repeat:no-repeat;
+	background-color: #FFFFFF;
+	
+	margin-left: 70px;
+	margin-right: 70px;
+	
+    padding-right: 20px;
+    padding-left: 20px;
+	
+	}
+	
+	
+@font-face {
+	font-family: Dense-Regular;
+	src: url('Dense-Regular.otf');
+	}
+		
+
+#title {
+		text-align: center;
+		font-size: 300%;
+		margin-top: 300px;
+		font-family: Delicious, sans-serif;		
+	}
+	
+#purpose{
+	text-align: center;
+	font-size: 150%;
+	padding-top: 800px;
+	color: #000000
+}	
+	
+#subtitle {
+		text-align: center;
+	}
+
+	
+#intro{
+	color: #000000;
+	text-align: center;
+	padding-top: 15px;
+	margin-left: 50px;
+	margin-right: 50px;
+}	
+
+#civil_rights{
+	position: relative;
+	left: 10px;
+	top: 20px;
+	padding-left: 100px;
+}
+
+
+#elections{
+	position: relative;
+	left: 100px;
+	padding-left: 200px;
+}
+
+
+
+
+
+
+
+
+
+	
