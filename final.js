@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*
 $(document).ready(function fadeOut(){
     $(".btn1").click(function(){
@@ -22,3 +23,5 @@ document.body.pushChild(img);
 */
 
 $('myOjbect').css('background-image', 'url(' + http://makeupbridalschool.com/wp-content/uploads/2015/02/Washington-D.C.-Bridal-Makeup-School.jpg + ')');
+=======
+>>>>>>> origin/master

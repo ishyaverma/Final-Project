@@ -22,17 +22,35 @@ body {
 		
 
 #environment {
-	text-align: right;
-
+	margin-top: 30px;
+	padding-right: 90%; 
 }		
-		
+	
+#rights {
+	margin-top: 30px;
+	margin-right: 50px;
+}
+
+#election {
+	margin-top: 30px;
+	margin-right: 50px;
+}
+	
 		
 #title {
+<<<<<<< HEAD
 	text-align: center;
 	font-size: 300%;
 	margin-top: 300px;
 	font-family: Delicious, sans-serif;		
 }
+=======
+		text-align: center;
+		font-size: 300%;
+		margin-top: 300px;
+		font-family: Dense-Regular;		
+	}
+>>>>>>> origin/master
 	
 #purpose{
 	color: black;
