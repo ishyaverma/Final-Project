@@ -28,22 +28,22 @@ body {
 		
 		
 #title {
-		text-align: center;
-		font-size: 300%;
-		margin-top: 300px;
-		font-family: Delicious, sans-serif;		
-	}
+	text-align: center;
+	font-size: 300%;
+	margin-top: 300px;
+	font-family: Delicious, sans-serif;		
+}
 	
 #purpose{
+	color: black;
 	text-align: center;
 	font-size: 150%;
 	padding-top: 800px;
-	color: #000000
 }	
 	
 #subtitle {
-		text-align: center;
-	}
+	text-align: center;
+}
 
 	
 #intro{
@@ -54,30 +54,35 @@ body {
 	margin-right: 50px;
 }	
 
-#civil_rights{
-	position: relative;
-	left: 10px;
-	top: 20px;
-	padding-left: 100px;
-}
 
-
-#civil_rights ul{
-	list-style-type: none;
-}
-
-#civil_rights li{
+#civillist li{
 	display: inline;
-	float: left;
-	margin-left:10%;
-    margin-right:10%;
-    margin-top:5%;
+	list-style-type: none;
+	text-align: center;
+	margin-left: 90px;
 }
 
+#infographic{
+	text-align: center;
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 400%;
+	color: black;
+	background-color: #afbec5;
+}
 
+.king{
+	text-align: left;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 50%;
+	color:black;
+}
 
-
-
+#caselist li{
+	display: inline;
+	list-style-type: none;
+	text-align: center;
+	margin-left: 40px;
+}
 
 
 
